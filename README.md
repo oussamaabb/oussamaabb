@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on nothing in particular
+- 🌱 I’m currently learning azure devops,github actions
+- 👯 I’m looking to collaborate on any relevant project
+
 <!--
 **oussamaabb/oussamaabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
